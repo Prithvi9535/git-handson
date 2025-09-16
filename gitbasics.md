@@ -8,7 +8,7 @@ Great start 👍 Let’s break down Git basics for DevOps engineers into clear c
 
 Git is a distributed version control system (DVCS).
 
-It tracks changes in source code so multiple developers can collaborate.
+99999999999999999999999999999999999999999999999999999999999999999999999999
 
 Every developer has a full copy of the repository, including history.
 
